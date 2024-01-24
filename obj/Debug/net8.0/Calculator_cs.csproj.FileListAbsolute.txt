@@ -1,0 +1,15 @@
+E:\ProjetosDev\Calculator_cs\bin\Debug\net8.0\Calculator_cs.exe
+E:\ProjetosDev\Calculator_cs\bin\Debug\net8.0\Calculator_cs.deps.json
+E:\ProjetosDev\Calculator_cs\bin\Debug\net8.0\Calculator_cs.runtimeconfig.json
+E:\ProjetosDev\Calculator_cs\bin\Debug\net8.0\Calculator_cs.dll
+E:\ProjetosDev\Calculator_cs\bin\Debug\net8.0\Calculator_cs.pdb
+E:\ProjetosDev\Calculator_cs\obj\Debug\net8.0\Calculator_cs.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjetosDev\Calculator_cs\obj\Debug\net8.0\Calculator_cs.AssemblyInfoInputs.cache
+E:\ProjetosDev\Calculator_cs\obj\Debug\net8.0\Calculator_cs.AssemblyInfo.cs
+E:\ProjetosDev\Calculator_cs\obj\Debug\net8.0\Calculator_cs.csproj.CoreCompileInputs.cache
+E:\ProjetosDev\Calculator_cs\obj\Debug\net8.0\Calculator_cs.sourcelink.json
+E:\ProjetosDev\Calculator_cs\obj\Debug\net8.0\Calculator_cs.dll
+E:\ProjetosDev\Calculator_cs\obj\Debug\net8.0\refint\Calculator_cs.dll
+E:\ProjetosDev\Calculator_cs\obj\Debug\net8.0\Calculator_cs.pdb
+E:\ProjetosDev\Calculator_cs\obj\Debug\net8.0\Calculator_cs.genruntimeconfig.cache
+E:\ProjetosDev\Calculator_cs\obj\Debug\net8.0\ref\Calculator_cs.dll
